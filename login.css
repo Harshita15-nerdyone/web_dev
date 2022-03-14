@@ -1,0 +1,27 @@
+div{
+    object-fit: cover;
+height: 600px;
+               width:1000px;
+                border: 5px ;color:white;
+                padding: 30px;
+                margin: 5px;}
+            #Reg.form{
+                font-size:x-large;
+                font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+                .center{
+                    font-size:xx-large;
+                    
+                    color:black;
+                }
+                .para{
+                    color:black;
+                    font-size:x-large;
+                    
+                }
+                body{
+                    font-size: 1.3rem;
+                }
+                .fontsize{
+                    font-size: 1.5rem;
+                    font-weight: bold;
+                }
